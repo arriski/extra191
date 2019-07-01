@@ -15,15 +15,15 @@
 
 3. Setelah download selesai, buka folder dan klik **Run**
 
-   ![Screenshot_250](https://user-images.githubusercontent.com/51958728/60398272-a0f46080-9b80-11e9-9118-89018e517c01.png)
+    ![Screenshot_250](https://user-images.githubusercontent.com/51958728/60398272-a0f46080-9b80-11e9-9118-89018e517c01.png)
 
 4. Pilih lokasi instalasi sesuai yang diinginkan
 
-   ![Screenshot_251](https://user-images.githubusercontent.com/51958728/60398304-e6b12900-9b80-11e9-887b-ef67967ea4e2.png)
+    ![Screenshot_251](https://user-images.githubusercontent.com/51958728/60398304-e6b12900-9b80-11e9-887b-ef67967ea4e2.png)
 
 5. Dan klik Install
 
-   ![Screenshot_252](https://user-images.githubusercontent.com/51958728/60398309-fdf01680-9b80-11e9-8d1e-43dd1efcf54b.png)
+    ![Screenshot_252](https://user-images.githubusercontent.com/51958728/60398309-fdf01680-9b80-11e9-8d1e-43dd1efcf54b.png)
 
 6. Setelah instalasi selesai, putty siap digunakan
 
