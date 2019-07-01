@@ -8,12 +8,11 @@
 - Untuk windows 32 bit dapat di download di [sini](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.71-installer.msi).
 - Untuk windows 64 bit dapat di download di [sini](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.71-installer.msi).
 
-
   Cara mengecek os kalian versi 32 atau 64 bit dapat dilakukan dengan cara:
   + Klik tombol start / windows dipojok kiri bawah dan buka kolom run **[Windows key + r]**
   + Ketik **dxdiag** lalu tekan enter dan akan terlihat seperti gambar dibawah
 
-![Screenshot_249](https://user-images.githubusercontent.com/51958728/60397929-bf585d00-9b7c-11e9-817a-fe91125c6295.png)
+  ![Screenshot_249](https://user-images.githubusercontent.com/51958728/60397929-bf585d00-9b7c-11e9-817a-fe91125c6295.png)
 
 
 2. Setelah download selesai, buka folder dan klik **Run**
