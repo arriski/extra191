@@ -5,8 +5,11 @@
 ### CARA INSTALL PUTTY DI WINDOWS
 
 1. Putty digunakan untuk menyambung ssh ke badak.
-   - Untuk windows 32 bit dapat di download di [sini](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.71-installer.msi).
-   - Untuk windows 64 bit dapat di download di [sini](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.71-installer.msi).
+ Untuk menuju link download putty dapat dilakukan di [sini](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
+
+ Kalian dapat memilih Putty yang akan kalian download menyesuaikan dengan versi os kalian
+![Screenshot_275](https://user-images.githubusercontent.com/51958728/61052212-21cf1a00-a415-11e9-9fb1-b3a6622e986d.png)
+
 
 2. Cara mengecek os kalian versi 32 atau 64 bit dapat dilakukan dengan cara:
    - Klik tombol start / windows dipojok kiri bawah dan buka kolom run **[Windows key + r]**
