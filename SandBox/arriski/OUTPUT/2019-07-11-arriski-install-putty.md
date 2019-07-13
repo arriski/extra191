@@ -14,6 +14,7 @@
 2. Cara mengecek os kalian versi 32 atau 64 bit dapat dilakukan dengan cara:
    - Klik tombol start / windows dipojok kiri bawah dan buka kolom run **[Windows key + r]**
    - Ketik **dxdiag** lalu tekan enter dan akan terlihat seperti gambar dibawah
+   
     ![Screenshot_249](https://user-images.githubusercontent.com/51958728/60397929-bf585d00-9b7c-11e9-817a-fe91125c6295.png)
 
 3. Setelah download selesai, buka folder dan klik **Run**
